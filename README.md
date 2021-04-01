@@ -1,5 +1,5 @@
 [![如页面部分图片无法显示，请直接点这里到末尾看修复教程](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge)](#解决-github-网页上图片显示失败的问题) [![](https://img.shields.io/github/stars/be-engineer/OpenWrt-DIY?color=FFFFFF)](https://github.com/be-engineer/OpenWrt-DIY/stargazers) [![](https://img.shields.io/github/forks/be-engineer/OpenWrt-DIY?color=FFFFFF)](https://github.com/be-engineer/OpenWrt-DIY/network/members) [![](https://img.shields.io/github/release-date/be-engineer/OpenWrt-DIY?color=FFFFFF&label=%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F)](https://github.com/be-engineer/OpenWrt-DIY/actions) 
-    <img src="https://github.com/be-engineer/OpenWrt-act-more-devices/blob/main/img/6FB266E1-89E0-412C-9F8D-C947DF3DF67F.jpeg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="180" />
+    <a href="http://Openwrt.org" target="-blank" title="Openwrt官方网站"><img src="https://github.com/be-engineer/OpenWrt-act-more-devices/blob/main/img/6FB266E1-89E0-412C-9F8D-C947DF3DF67F.jpeg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="180" />
 </a>
 
 [OpenWrt — 多设备固件云编译]((http://wpa.qq.com/msgrd?v=3&uin=00000000&site=qq&menu=yes))
