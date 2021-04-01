@@ -13,8 +13,8 @@
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 
-|    序号   |     设备平台     |   编译状态及下载链接 |   插件配置   | 处理器型号 |备注说明   |
-| :-----------------: | :------------- |:----------------- | :----------------- |  :----------------- | 
+|    序号   |  设备型号  |  编译状态及链接 |  插件配置  | 处理器型号 | 备注说明  |
+| :-----------------: | :------------- |:----------------- | :----------------- |  :----------------- |  :----------------- | 
 | 1 |   [![](https://img.shields.io/badge/OpenWrt-x86_64_(64位)-FFFFFF.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22)    | [![](https://github.com/be-engineer/OpenWrt-DIY/workflows/Build%20X86(64bit)%20OpenWrt/badge.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/be-engineer/OpenWrt-DIY/blob/main/config/x86_64.config) | X86 |  |  
 | 2 |    [![](https://img.shields.io/badge/OpenWrt-x86_(32位)-FFFFFF.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22)     |[![](https://github.com/be-engineer/OpenWrt-DIY/workflows/Build%20X86(32bit)%20OpenWrt/badge.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22) Do not supported again|[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/be-engineer/OpenWrt-DIY/blob/main/config/x86.config) | X86 | | 
 | 3 |        [![](https://img.shields.io/badge/OpenWrt-竞斗云-FFFFFF.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22)         |[![](https://github.com/be-engineer/OpenWrt-DIY/workflows/Build%20G-Dock%20OpenWrt/badge.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/be-engineer/OpenWrt-DIY/blob/main/config/gdock-lean-openwrt.config)  | ARM A7 | | 
