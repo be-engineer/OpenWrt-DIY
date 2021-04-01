@@ -2,14 +2,12 @@
     <img src="https://github.com/be-engineer/OpenWrt-act-more-devices/blob/main/img/6FB266E1-89E0-412C-9F8D-C947DF3DF67F.jpeg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="180" />
 </a>
 
-[OpenWrt DIY — 多设备固件云编译]((http://wpa.qq.com/msgrd?v=3&uin=00000000&site=qq&menu=yes))
+[OpenWrt — 多设备固件云编译]((http://wpa.qq.com/msgrd?v=3&uin=00000000&site=qq&menu=yes))
 ======================
 
 [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-) [![](https://img.shields.io/badge/-USB网卡推荐-F5F5F5.svg)](#usb-网卡推荐-) [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-) [![](https://img.shields.io/badge/-赞助本项目-F5F5F5.svg)](#赞助支持本项目-) [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载体验的内容。
-
-如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/be-engineer/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 
@@ -49,7 +47,7 @@
 
 1. 默认引用 Lean 的源码（部分设备整合 Lienol 软件包），因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀；
 
-2.  **每周五查询大雕源码是否有更新** ，如有更新自动拉取最新源码和第三方软件包项目自动编译（根据设备不同编译时间在1~5个小时），**固件包含必要驱动及常用插件**（各设备的 config 借鉴大雕设置及根据网友需求调整），未逐一经过实机测试，故 **不保证 100% 可靠性**；
+2.  **每周五查询大雕源码是否有更新** ，如有更新自动拉取最新源码和第三方软件包项目自动编译（根据设备不同编译时间在1~5个小时），**固件包含必要驱动及常用插件**（各设备的 config 借鉴大雕设置及根据需求调整），未逐一经过实机测试，故 **不保证 100% 可靠性**；
 
 3. 不建议直接 **Fork** 本项目，这样会造成 Github 资源浪费，重复编译，需要固件的请直接下载即可。这也是为什么本项目选择源码有更新才编译一次，而不是每天都编译。
 
